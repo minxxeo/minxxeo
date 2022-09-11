@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+My name is Lee Min Seo. 
+I'm 21 years old. 
+I'm studying in Gachon University. 
+My major is AI.
+I live in Young-In.
