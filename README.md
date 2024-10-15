@@ -19,3 +19,6 @@ I'm 21 years old.
 I'm studying in Gachon University. 
 My major is AI.
 I live in Young-In.
+
+
+![](./profile-3d-contrib/profile-gitblock.svg)
