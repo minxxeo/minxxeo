@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align = center> 
-### Introduction🙌  
+###Introduction🙌  
 ---  
 Hi, I am studying Computer Vision for Autonomous Driving and AI. 
 </div>
