@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 ---
 Hi, I am studying AI and Computer Vision for Autonomous Driving.
 
-I am an undergraduate student researcher in th VIP LAB.
+I am an undergraduate student researcher in the VIP LAB.
 </div>
 
 
