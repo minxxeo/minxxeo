@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **minxxeo/minxxeo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,11 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-My name is Lee Min Seo. 
-I'm 21 years old. 
-I'm studying in Gachon University. 
-My major is AI.
-I live in Young-In.
+<div align = center> 
+### Introduction🙌
+---
+Hi, I am studying Computer Vision for Autonomous Driving and AI. 
+</div>
+
 
 
 ![](./profile-3d-contrib/profile-gitblock.svg)
