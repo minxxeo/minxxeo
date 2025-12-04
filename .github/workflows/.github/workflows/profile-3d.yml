@@ -18,15 +18,11 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
-
       - name: Commit & Push
         run: |
-          git config user.name github-actions
-          git config user.email github-actions@github.com
+          git config user.name minxxeo
+          git config user.email lms2649@naver.com
           git add -A .
-          if git diff --cached --quiet; then
-            echo "No changes"
-          else
-            git commit -m "generated"
+          if git commit -m "generated"; then
             git push
           fi
